@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "cover_img": "https://i.ibb.co/Vwvsq2s/krystian-tambur-k7r-Z8w-Tf-ABA-unsplash.jpg",
+        "author_name": "John Smith",
+        "author_img": "https://i.ibb.co/n8mbQYr/boy1.png",
+        "date": "September 12, 2023",
+        "title": "Exploring the mysteries of the deep sea",
+        "reading_time": 15,
+        "hashtags": ["#ocean", "#marinebiology", "#exploration"]
+    },
+    {
+        "id": 67890,
+        "cover_img": "https://i.ibb.co/L1x3gZB/lesly-juarez-DFtj-XYd5-Pto-unsplash.jpg",
+        "author_name": "Emily Johnson",
+        "author_img": "https://i.ibb.co/NStkZpf/girl1.jpg",
+        "date": "August 28, 2023",
+        "title": "The art of digital photography",
+        "reading_time": 10,
+        "hashtags": ["#photography", "#digitalart", "#creativity"]
+    },
+    {
+        "id": 54321,
+        "cover_img": "https://i.ibb.co/4tTVrZt/maarten-van-den-heuvel-Ez-H46-XCDQRY-unsplash.jpg",
+        "author_name": "David Anderson",
+        "author_img": "https://i.ibb.co/HCxbffv/boy2.jpg",
+        "date": "July 17, 2023",
+        "title": "Cooking around the world: A culinary adventure",
+        "reading_time": 20,
+        "hashtags": ["#cooking", "#culinary", "#globalcuisine"]
+    },
+    {
+        "id": 98765,
+        "cover_img": "https://i.ibb.co/Cb6GpBJ/nasa-y-Zyg-ONr-UBe8-unsplash.jpg",
+        "author_name": "Sarah Davis",
+        "author_img": "https://i.ibb.co/M8ZhgZg/girl2.jpg",
+        "date": "June 5, 2023",
+        "title": "The science of climate change",
+        "reading_time": 25,
+        "hashtags": ["#climatechange", "#environment", "#science"]
+    },
+    {
+        "id": 24680,
+        "cover_img": "https://i.ibb.co/PtYYFpj/neven-krcmarek-JED1j-ERy7-TE-unsplash.jpg",
+        "author_name": "Michael Johnson",
+        "author_img": "https://i.ibb.co/n8mbQYr/boy1.png",
+        "date": "May 20, 2023",
+        "title": "Space exploration: Beyond the stars",
+        "reading_time": 30,
+        "hashtags": ["#space", "#exploration", "#cosmos"]
+    }
+]
